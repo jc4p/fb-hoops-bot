@@ -12,4 +12,4 @@ Demos at 200% speed. Click to view gfycat directly.
 Full-width demos including debug output of app in Visual Studio (bottom-right):
 
 - [Full width demo 1](https://gfycat.com/PassionateCelebratedItaliangreyhound)
-- [Full with demo 2](https://gfycat.com/DifferentParchedIbis)
+- [Full width demo 2](https://gfycat.com/DifferentParchedIbis)
