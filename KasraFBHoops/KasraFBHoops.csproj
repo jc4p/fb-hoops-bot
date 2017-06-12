@@ -6,8 +6,8 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{937B5C7E-6FAA-44BB-8CB8-FC99E36DC918}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>KasraFbGamesTest</RootNamespace>
-    <AssemblyName>KasraFbGamesTest</AssemblyName>
+    <RootNamespace>KasraFBHoops</RootNamespace>
+    <AssemblyName>KasraFBHoops</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -87,6 +87,7 @@
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
     </Compile>
     <None Include="ball_detector.svm">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
